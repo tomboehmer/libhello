@@ -4,6 +4,6 @@
 
 namespace hello {
 	void say_hello() {
-		std::cout << "Hello Programmer!\n";
+		std::cout << "Hello World!\n";
 	}
 }
